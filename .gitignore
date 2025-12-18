@@ -1,0 +1,23 @@
+# Node modules (both frontend and backend)
+contact-app/node_modules/
+server-api/node_modules/
+
+# Build outputs
+contact-app/dist/
+contact-app/build/
+server-api/dist/
+
+# Environment variables
+*.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
