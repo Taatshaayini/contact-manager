@@ -1,6 +1,6 @@
 # Node modules (both frontend and backend)
 contact-app/node_modules/
-server-api/node_modules/
+mock-api/node_modules/
 
 # Build outputs
 contact-app/dist/
