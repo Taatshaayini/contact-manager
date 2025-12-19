@@ -85,13 +85,9 @@ npm run dev
 
 ---
 
-## 📄 Resume Description (Suggested)
+## 📄 Resume Description
 
 > **Contact Manager (React, Tailwind CSS, JSON Server)**
 > Developed a responsive frontend contact management application implementing full CRUD functionality. Integrated a mock REST API using JSON Server to simulate real-world backend interactions and applied modern React component design and Tailwind-based styling.
 
 ---
-
-## 📷 Screenshots
-
-(Add screenshots or a demo GIF here)
