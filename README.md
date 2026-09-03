@@ -84,10 +84,3 @@ npm run dev
 - Replace mock API with a real backend (Node.js + database)
 
 ---
-
-## 📄 Resume Description
-
-> **Contact Manager (React, Tailwind CSS, JSON Server)**
-> Developed a responsive frontend contact management application implementing full CRUD functionality. Integrated a mock REST API using JSON Server to simulate real-world backend interactions and applied modern React component design and Tailwind-based styling.
-
----
